@@ -20,7 +20,7 @@ Step : 4====>
   Now copy all the above uploaded code files inside your src folder.
   |||Caution|||  ---  Copy only those files which are not present in your src folder and leave rest of the files if you had followed 3 step or skip the 3 step and replace the        whole files present within the src folder  
   
-Step :5====> 
+Step : 5====> 
   Now run : npm start to check the working of your app...  
   
 This is the link of my deployed app : https://covid-tracker-app-cc2a3.web.app/
