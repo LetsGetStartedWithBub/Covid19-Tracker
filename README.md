@@ -8,7 +8,7 @@ Dependencies / Libraries to be downloaded :
 5. ChartJS-2
 
 Step : 1 ====>
-  Create a react app by typing the following in the terminal  : npm create react-app
+  Create a react app by typing the following in the terminal  : npx create-react-app (app-name)
 
 Step : 2====>
   Download all the libraries(listed above) using npm i react-____
